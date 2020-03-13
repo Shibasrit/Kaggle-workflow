@@ -1,0 +1,1 @@
+In this project, a reproducible workflow to help us iterate over ideas and continue to improve the accuracy of predictions is created. Helper functions which will make feature selection, model selection/tuning and creating submissions much easier as one continue to explore the data and create new features is also a created. 

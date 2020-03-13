@@ -1,0 +1,3 @@
+This is an workflow to compete in the Kaggle Titanic competition is explored, using a pipeline of functions to reduce the number of dimensions need to be focused.
+
+In this project Jupyter notebook, a web application which lets us combine text and code within a single file, and is one of the most popular ways to explore and iterate when working with data, is used. The Jupyter notebook allows us to easily share our work, and makes exploring data much easier.
